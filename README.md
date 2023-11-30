@@ -31,4 +31,4 @@ Sou programador C#, ASP.NET e .NET Core, graduado em Análise e Desenvolvimento 
   <a href="https://learn.microsoft.com/pt-br/dotnet/" target="_blank"> <img align="center" alt="Jeh-DotNet" height="30" width="40" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-vertical.svg"</a>
 </div>
 <br/>
-<img  src="https://media.giphy.com/media/mCtGhQ1yF1Qk9X3YnO/giphy.gif">
+<img  src="https://media.giphy.com/media/MhAxhXZ0uEaer0U19j/giphy.gif)https://media.giphy.com/media/MhAxhXZ0uEaer0U19j/giphy.gif">
