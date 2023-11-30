@@ -1,6 +1,6 @@
-## Olá, Como vai você? <img src="https://user-iomages.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
-## Eu sou Wellington Lacerda <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-
+## Olá, como vai você
+## Me chamo Wellington Lacerda  
+Sou programador C#, ASP.NET e .NET Core, graduado em Análise e Desenvolvimento de Sistemas. Trabalho no desenvolvimento de sistemas web usando tecnologias como HTML, CSS, JavaScript, SQL além das já mencionadas. Essas tecnologias são usadas para desenvolvimento de sistemas na área esportiva, educação e saúde.
 
 
 ## Quer me conhecer 📱
@@ -31,3 +31,4 @@
   <a href="https://learn.microsoft.com/pt-br/dotnet/" target="_blank"> <img align="center" alt="Jeh-DotNet" height="30" width="40" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-vertical.svg"</a>
 </div>
 <br/>
+<img  src="https://media.giphy.com/media/mCtGhQ1yF1Qk9X3YnO/giphy.gif">
